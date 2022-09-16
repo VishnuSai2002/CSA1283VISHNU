@@ -1,0 +1,4 @@
+MVI A,04
+CMA
+STA 8500
+RST 5
